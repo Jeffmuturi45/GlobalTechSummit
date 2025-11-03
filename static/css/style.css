@@ -175,3 +175,24 @@ p {
     margin-top: 10px;
   }
 }
+
+.countdown {
+  margin-top: 10px;
+  background: #f0f0ff;
+  padding: 8px 12px;
+  border-left: 4px solid #4a17ff;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.countdown small {
+  color: #555;
+  font-size: 14px;
+}
+
+.countdown span {
+  color: #4a17ff;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 5px;
+}
